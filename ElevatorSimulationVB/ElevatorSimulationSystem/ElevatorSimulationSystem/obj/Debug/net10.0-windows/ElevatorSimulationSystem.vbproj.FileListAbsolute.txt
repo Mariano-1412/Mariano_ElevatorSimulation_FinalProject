@@ -1,0 +1,16 @@
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\bin\Debug\net10.0-windows\ElevatorSimulationSystem.exe
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\bin\Debug\net10.0-windows\ElevatorSimulationSystem.deps.json
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\bin\Debug\net10.0-windows\ElevatorSimulationSystem.runtimeconfig.json
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\bin\Debug\net10.0-windows\ElevatorSimulationSystem.dll
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\bin\Debug\net10.0-windows\ElevatorSimulationSystem.pdb
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\obj\Debug\net10.0-windows\ElevatorSimulationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\obj\Debug\net10.0-windows\ElevatorSimulationSystem.AssemblyInfoInputs.cache
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\obj\Debug\net10.0-windows\ElevatorSimulationSystem.AssemblyInfo.vb
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\obj\Debug\net10.0-windows\ElevatorSimulationSystem.vbproj.CoreCompileInputs.cache
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\obj\Debug\net10.0-windows\ElevatorSimulationSystem.dll
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\obj\Debug\net10.0-windows\refint\ElevatorSimulationSystem.dll
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\obj\Debug\net10.0-windows\ElevatorSimulationSystem.pdb
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\obj\Debug\net10.0-windows\ElevatorSimulationSystem.genruntimeconfig.cache
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\obj\Debug\net10.0-windows\ref\ElevatorSimulationSystem.dll
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\obj\Debug\net10.0-windows\ElevatorSimulationSystem.Form1.resources
+C:\Users\REI\Desktop\ElevatorSimulationVB\ElevatorSimulationSystem\ElevatorSimulationSystem\obj\Debug\net10.0-windows\ElevatorSimulationSystem.vbproj.GenerateResource.cache
